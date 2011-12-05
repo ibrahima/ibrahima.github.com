@@ -3,8 +3,8 @@ auto: true
 
 exclude: ["README.md", "LICENSE.md", "TODO.md", "build", "test"]
 
-owner-name: your name
-owner-page: your homepage
-owner-email: your email
+owner-name: Ibrahim Awwal
+owner-page: ibrahima.github.com
+owner-email: ibrahim [dot] awwal [squiggly a] gmail [dot] com
 
 license: your license of choice

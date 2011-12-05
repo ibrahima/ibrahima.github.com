@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: A super epic, HTML5 Boilerplate & "320 and up" enhanced blog
+title: Ibrahim's Personal Site
 ---
-# Welcome to the blog of Florian Holzner
+# Welcome to the blog of Ibrahim Awwal
 Behold, epic tales of awesomeness await thee who enters my realm!
